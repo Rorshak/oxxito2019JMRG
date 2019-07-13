@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Oxxito2019</string>
+    <string name="lbl_registrar">Registrar Productos</string>
+    <string name="lbl_inicializar">Inicializar DB</string>
+    <string name="lbl_registro">Registro</string>
+    <string name="lbl_codigo">Codigo:</string>
+    <string name="lbl_producto">Producto:</string>
+    <string name="lbl_precio">Precio:</string>
+    <string name="lbl_existencia">Existencia:</string>
+    <string name="lbl_caducidad">Caducidad:</string>
+    <string name="lbl_guardar">Guardar</string>
+    <string name="lbl_cancelar">Cancelar</string>
+    <string name="lbl_gestion_productos">Gestión de Productos</string>
+    <string name="lbl_actualizar">Actualizar</string>
+    <string name="lbl_eliminar">Eliminar</string>
+    <string name="lbl_nuevo">Producto Nuevo</string>
+</resources>
